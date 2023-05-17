@@ -27,7 +27,7 @@ while True:
             print("Log generation started")
             loging = 1
         out_file = open(data[0]['Run']['output_file'], "a") # Открытие файла для добавление строк в лог
-        out_file.write(lines[random.randint(0, str(datetime.now())+":"+lines_num)]) # Добавление записи в файл
+        out_file.write(str(datetime.now())+":"+lines[random.randint(0, lines_num)]) # Добавление записи в файл
         out_file.close # Закрытие файла - иначе строки не появтся в файле
         time.sleep(random.randint(0, data[0]['Run']['delays'])) # Случайная пауза
     else:

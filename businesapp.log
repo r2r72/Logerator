@@ -1,28 +1,20 @@
-[NORMAL] Global options file has been upgraded.
-[CRITICAL] Skipped Schedules/Templates Migration
-[NORMAL] Service Data Protector Filter Listener Service started.
-[CRITICAL] Not all wars are deployed.
-[CRITICAL] Keycloak service initialization failed.
-[NORMAL] Service Data Protector IDB started.
-[NORMAL] All services successfully started.
-[NORMAL] Service Data Protector Application Server restarted successfully.
-[NORMAL] Service Data Protector IDB connection pool started.
-[NORMAL] Service Data Protector Application Server started.
-[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
-[NORMAL] Global options file has been upgraded.
-[NORMAL] Installation server successfully imported.
-[CRITICAL] Skipped Schedules/Templates Migration
-[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
-[NORMAL] Service Data Protector Filter Listener Service started.
-[CRITICAL] Skipped Schedules/Templates Migration
-[NORMAL] Service Data Protector Filter Listener Service started.
-[NORMAL] Service Data Protector CRS started.
-[WARNING] Unable to create service account.
-[NORMAL] Global options file has been upgraded.
-[NORMAL] Service Data Protector IDB connection pool started.
-[WARNING] Reloading the Application Server configuration data timed out before completion.
-[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
-[NORMAL] Service Data Protector IDB connection pool started.
-[NORMAL] Installation server successfully imported.
-[NORMAL] Service Data Protector Application Server restarted successfully.
-[NORMAL] Installation server successfully imported.
+2023-05-17 10:27:36.445030:[CRITICAL] Failed to bind to Keycloak with script output - Failed to connect to the controller: The controller is not available at localhost:9999: java.net.ConnectException: 
+2023-05-17 10:27:53.449402:[WARNING] Reloading the Application Server configuration data timed out before completion.
+2023-05-17 10:29:26.457093:[NORMAL] Service Data Protector Inet started.
+2023-05-17 10:29:38.457650:[NORMAL] Service Data Protector Application Server started.
+2023-05-17 10:29:52.458053:[NORMAL] Service Data Protector IDB connection pool started.
+2023-05-17 10:30:52.463622:[NORMAL] Service Data Protector Application Server restarted successfully.
+2023-05-17 10:31:46.464062:[NORMAL] Service Data Protector Inet started.
+2023-05-17 10:32:26.466340:[WARNING] Reloading the Application Server configuration data timed out before completion.
+2023-05-17 10:33:14.470369:[CRITICAL] Keycloak service initialization failed.
+2023-05-17 10:33:25.474079:[NORMAL] All services successfully started.
+2023-05-17 10:33:58.476328:[NORMAL] Global options file has been upgraded.
+2023-05-17 10:34:34.478431:[WARNING] Reloading the Application Server configuration data timed out before completion.
+2023-05-17 10:34:57.479298:[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
+2023-05-17 10:35:12.483539:[WARNING] Reloading the Application Server configuration data timed out before completion.
+2023-05-17 10:36:05.486241:[WARNING] Reloading the Application Server configuration data timed out before completion.
+2023-05-17 10:36:10.487541:[NORMAL] Service Data Protector CRS started.
+2023-05-17 10:36:48.488839:[NORMAL] Service Data Protector IDB started.
+2023-05-17 10:37:08.494364:[NORMAL] Service Data Protector Application Server restarted successfully.
+2023-05-17 10:37:59.495764:[WARNING] Unable to create service account.
+2023-05-17 10:38:14.501274:[NORMAL] Service Data Protector Inet started.
