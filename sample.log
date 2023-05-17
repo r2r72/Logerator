@@ -1,0 +1,23 @@
+[NORMAL] Global options file has been upgraded.
+[NORMAL] Service Data Protector Inet started.
+[NORMAL] Service Data Protector CRS started.
+[NORMAL] Service Data Protector Filter Listener Service started.
+[NORMAL] Service Data Protector IDB started.
+[NORMAL] Service Data Protector IDB connection pool started.
+[NORMAL] Service Data Protector Application Server started.
+[CRITICAL] Keycloak Database initialization failed.
+[CRITICAL] Keycloak service initialization failed.
+[NORMAL] Service Data Protector Application Server restarted successfully.
+[WARNING] Reloading the Application Server configuration data timed out before completion.
+[NORMAL] Service Data Protector Application Server restarted successfully.
+[WARNING] Reloading the Application Server configuration data timed out before completion.
+[CRITICAL] Failed to bind to Keycloak with script output - Failed to connect to the controller: The controller is not available at localhost:9999: java.net.ConnectException: 
+CRITICAL] Application Server packages deployment failed.
+[WARNING] Unable to create service account.
+[NORMAL] Installation server successfully imported.
+[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
+[NORMAL] All services successfully started.
+[CRITICAL] Not all wars are deployed.
+[CRITICAL] Skipped Schedules/Templates Migration
+[CRITICAL] Skipped Schedules/Templates migration executed as Appserver is not up and running
+[NORMAL] Post-installation script for the StoreOnce Software Deduplication completed successfully.

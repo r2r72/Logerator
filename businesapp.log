@@ -1,0 +1,28 @@
+[NORMAL] Global options file has been upgraded.
+[CRITICAL] Skipped Schedules/Templates Migration
+[NORMAL] Service Data Protector Filter Listener Service started.
+[CRITICAL] Not all wars are deployed.
+[CRITICAL] Keycloak service initialization failed.
+[NORMAL] Service Data Protector IDB started.
+[NORMAL] All services successfully started.
+[NORMAL] Service Data Protector Application Server restarted successfully.
+[NORMAL] Service Data Protector IDB connection pool started.
+[NORMAL] Service Data Protector Application Server started.
+[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
+[NORMAL] Global options file has been upgraded.
+[NORMAL] Installation server successfully imported.
+[CRITICAL] Skipped Schedules/Templates Migration
+[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
+[NORMAL] Service Data Protector Filter Listener Service started.
+[CRITICAL] Skipped Schedules/Templates Migration
+[NORMAL] Service Data Protector Filter Listener Service started.
+[NORMAL] Service Data Protector CRS started.
+[WARNING] Unable to create service account.
+[NORMAL] Global options file has been upgraded.
+[NORMAL] Service Data Protector IDB connection pool started.
+[WARNING] Reloading the Application Server configuration data timed out before completion.
+[NORMAL] Configuration of cell srv-hdp-01.local successfully updated.
+[NORMAL] Service Data Protector IDB connection pool started.
+[NORMAL] Installation server successfully imported.
+[NORMAL] Service Data Protector Application Server restarted successfully.
+[NORMAL] Installation server successfully imported.
